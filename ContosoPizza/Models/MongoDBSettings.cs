@@ -1,4 +1,4 @@
-namespace ContosoPizza.Models
+namespace GabbitoPizza.Models
 {
     public class MongoDBSettings
     {

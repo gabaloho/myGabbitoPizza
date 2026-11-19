@@ -1,8 +1,8 @@
-﻿using ContosoPizza.Models;
-using ContosoPizza.Services;
+﻿using GabbitoPizza.Models;
+using GabbitoPizza.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ContosoPizza.Controllers
+namespace GabbitoPizza.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

@@ -1,7 +1,7 @@
-﻿using ContosoPizzaApp.Components.Models;
+﻿using GabbitoPizzaApp.Components.Models;
 using System.Net.Http.Json;
 
-namespace ContosoPizzaApp.Components.Services
+namespace GabbitoPizzaApp.Components.Services
 {
     public class PizzaService
     {

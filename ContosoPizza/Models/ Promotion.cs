@@ -4,7 +4,7 @@ using MongoDB.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 
-namespace ContosoPizza.Models
+namespace GabbitoPizza.Models
 {
     [Collection("promotions")]
     public class Promotion

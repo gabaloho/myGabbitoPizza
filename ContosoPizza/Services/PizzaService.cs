@@ -1,11 +1,11 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 using MongoDB.Bson;
 using MongoDB.Driver;
-using ContosoPizza.Services;
-using ContosoPizza.Models;
+using GabbitoPizza.Services;
+using GabbitoPizza.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace ContosoPizza.Services
+namespace GabbitoPizza.Services
 {
 
     public class PizzaService

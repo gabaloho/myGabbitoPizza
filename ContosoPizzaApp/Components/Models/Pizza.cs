@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace ContosoPizzaApp.Components.Models
+namespace GabbitoPizzaApp.Components.Models
 {
     public class Pizza
     {

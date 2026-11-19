@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using ContosoPizza.Models;
+using GabbitoPizza.Models;
 using MongoDB.EntityFrameworkCore.Extensions;
 
-namespace ContosoPizza.Services
+namespace GabbitoPizza.Services
 {
     public class ContosoPizzaDbContext : DbContext
     {

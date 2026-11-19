@@ -1,8 +1,8 @@
 ﻿// EmployeeService.cs
-using ContosoPizza.Models;
+using GabbitoPizza.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace ContosoPizza.Services
+namespace GabbitoPizza.Services
 {
     public class EmployeeService
     {

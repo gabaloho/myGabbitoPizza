@@ -2,7 +2,7 @@
 using MongoDB.Bson.Serialization.Attributes;
 using MongoDB.EntityFrameworkCore;
 
-namespace ContosoPizza.Models
+namespace GabbitoPizza.Models
 {
     [Collection("pizzas")]
     public class Pizza

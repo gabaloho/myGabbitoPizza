@@ -2,7 +2,7 @@
 using MongoDB.Bson;
 using MongoDB.EntityFrameworkCore;
 
-namespace ContosoPizza.Models
+namespace GabbitoPizza.Models
 {
     [Collection("storeReviews")]
     public class StoreReview

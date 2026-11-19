@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ContosoPizza.Models
+namespace GabbitoPizza.Models
 {
     [Collection("orders")]
     public class Order

@@ -1,4 +1,4 @@
-using ContosoPizzaApp.Components;
+using GabbitoPizzaApp.Components;
 using MudBlazor.Services;
 
 var builder = WebApplication.CreateBuilder(args);
