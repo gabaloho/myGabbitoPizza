@@ -1,8 +1,8 @@
-﻿# ContosoPizza: Full-Stack .NET MAUI & Blazor Pizza Ordering App 🍕
+﻿# GabbitoPizza: Full-Stack .NET MAUI & Blazor Pizza Ordering App 🍕
 
 ## Overview
 
-**ContosoPizza** is a modern, full-stack pizza ordering application built using the latest .NET technologies. It combines a powerful **ASP.NET Core Web API** backend with a sleek **Blazor** frontend and uses **MongoDB** as the NoSQL data store.
+**GabbitoPizza** is a modern, full-stack pizza ordering application built using the latest .NET technologies. It combines a powerful **ASP.NET Core Web API** backend with a sleek **Blazor** frontend and uses **MongoDB** as the NoSQL data store.
 
 This project is designed to demonstrate best practices in cross-platform development using **.NET 9**, **.NET MAUI**, **Blazor**, and **MongoDB**, suitable for both educational purposes and professional portfolio showcases.
 
@@ -12,7 +12,7 @@ This project is designed to demonstrate best practices in cross-platform develop
 
 The solution consists of two main components:
 
-### 1. `ContosoPizza` – Backend API
+### 1. `GabbitoPizza` – Backend API
 
 - Developed with **ASP.NET Core (.NET 9)**.
 - Uses **MongoDB** for fast and scalable NoSQL data storage.
@@ -23,7 +23,7 @@ The solution consists of two main components:
   - `Store`: Location, contact info, and opening hours.
 - Designed to be easily extensible for additional functionality.
 
-### 2. `ContosoPizzaApp` – Blazor Frontend
+### 2. `GabbitoPizzaApp` – Blazor Frontend
 
 - Built using **Blazor** and styled with **MudBlazor** UI components.
 - Cross-platform: Runs seamlessly on desktop and mobile (via **.NET MAUI**).
