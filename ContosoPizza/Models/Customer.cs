@@ -3,7 +3,7 @@ using MongoDB.Bson.Serialization.Attributes;
 using MongoDB.EntityFrameworkCore;
 using System.Collections.Generic;
 
-namespace ContosoPizza.Models
+namespace GabbitoPizza.Models
 {
     [Collection("customers")]
     public class Customer

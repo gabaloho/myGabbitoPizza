@@ -1,8 +1,8 @@
-﻿using ContosoPizza.Models;
-using ContosoPizza.Services;
+﻿using GabbitoPizza.Models;
+using GabbitoPizza.Services;
 using Microsoft.EntityFrameworkCore;
 
-namespace ContosoPizza.Services
+namespace GabbitoPizza.Services
 {
     public class StoreReviewService
     {

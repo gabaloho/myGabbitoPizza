@@ -1,5 +1,5 @@
-﻿using ContosoPizza.Models;
-using ContosoPizza.Services;
+﻿using GabbitoPizza.Models;
+using GabbitoPizza.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;

@@ -1,9 +1,9 @@
 using MongoDB.Bson;
 using MongoDB.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
-using ContosoPizza.Models;
+using GabbitoPizza.Models;
 
-namespace ContosoPizza.Services
+namespace GabbitoPizza.Services
 {
     public interface IPizzaService
     {

@@ -3,7 +3,7 @@ using MongoDB.Bson.Serialization.Attributes;
 using MongoDB.EntityFrameworkCore;
 using System;
 
-namespace ContosoPizza.Models
+namespace GabbitoPizza.Models
 {
     [Collection("notifications")]
     public class Notification
